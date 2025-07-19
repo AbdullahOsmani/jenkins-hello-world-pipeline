@@ -1,8 +1,6 @@
 # Jenkins Hello World CI/CD Pipeline
- Polished Project Summary 
 
-# Jenkins Hello World CI/CD Pipeline 
- 
+ Polished Project Summary:
 This project demonstrates how I installed and configured Jenkins on an AWS EC2 instance and created a basic multi-stage CI/CD pipeline. 
  
 --- 
